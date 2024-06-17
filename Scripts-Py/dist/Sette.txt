@@ -1,0 +1,9 @@
+Nome do processador: Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz
+Nome: Sette
+Usuário logado: 7Sgnbeats
+Logs de user: ['7Sgnbeats']
+Versão do SO: Windows-10-10.0.19045-SP0
+Disco: 222.95GB
+Uso do disco: 78.1%
+Memória total: 9.69GB
+Memória em uso: 4.00GB
